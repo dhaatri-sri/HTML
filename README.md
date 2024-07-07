@@ -1,4 +1,7 @@
-# HTML - Hello World
+# HTML
 <html>
-  <title> HI </title>
+  <h1> HELLO WORLD </h1>
+    <body>
+      Learning HTML from today
+    </body>
 </html>
